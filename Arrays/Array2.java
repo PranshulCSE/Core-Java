@@ -7,8 +7,8 @@ public class Array2{
         Marks[1][0]=94;
 
         for(int i=0;i<Marks.length;i++)
-            for (int j=0;j< Marks[0].length;i++)
-             System.out.println(Marks[i][j]);
+            for (int j=0;j< Marks[0].length;j++)
+                System.out.println(Marks[i][j]);
 
     }
 }

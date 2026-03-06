@@ -25,3 +25,5 @@ public class Switchh {
         }
 
         System.out.println(grade);
+    }
+}
